@@ -3,7 +3,7 @@
 Site profissional de portfólio/currículo jurídico para **Fernanda Vitória Silva**, estudante de Direito da UNIFAVIP Wyden, criado para apresentação profissional, busca por estágio e publicação em GitHub Pages.
 
 
-> Versão V8: ajustes finais na hero section, com biblioteca jurídica mais aberta no fundo, card do WhatsApp reposicionado abaixo da foto e tipografia revisada para evitar cortes e textos estourando molduras.
+> Versão : ajustes finais na hero section, com biblioteca jurídica mais aberta no fundo, card do WhatsApp reposicionado abaixo da foto e tipografia revisada para evitar cortes e textos estourando molduras.
 
 ## Objetivo
 
@@ -87,13 +87,6 @@ O botão de WhatsApp abre uma conversa com o número configurado e a mensagem au
 Olá, vi seu portfólio jurídico e gostaria de conversar sobre uma oportunidade de estágio.
 ```
 
-## Publicação no GitHub Pages
-
-1. Crie um repositório no GitHub.
-2. Envie os arquivos do projeto.
-3. Vá em **Settings > Pages**.
-4. Em **Branch**, selecione `main` e a pasta `/root`.
-5. Salve e aguarde o link do GitHub Pages.
 
 ## Aprendizados do projeto
 
